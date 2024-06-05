@@ -27,6 +27,9 @@ Advanced Python Topics
 
     
 
+<!-- Detailed Explanation  -->
+Python OOPs Part-1
+
 1: Python Object Oriented Programming(OOP's)
   - Class Objects and Reference variables
   - types of Vatables
@@ -39,4 +42,25 @@ Advanced Python Topics
     - Static Method
     - About Getter and Setter
   - Inner Class
+
+Python OOPs Part-2
+
+2: Inheritance
+
+Python OOPs Part-3
+
+2: Polymorphism
+  - About Polymorphism
+  Related to polymorphism the following 4 topics are important
+  1. Duck Typing Philosophy of Python
+  2. Overloading
+    1. Operator Overloading
+    2. Method Overloading
+    3. Constructor Overloading
+  3. Overriding
+    1. Method overriding
+    2. constructor overriding
+  - 
+
+Python OOPs Part-4
   

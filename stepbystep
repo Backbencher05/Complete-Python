@@ -1,0 +1,68 @@
+- Language fundamentals: Page(1-8)
+- Identifiers: Page(9-10)
+- Reserved Words: Page(11)
+- Data Types: Page(12-19)
+- Type Casting: Page(20-23)
+- Fundamental Data Types vs Immuatability: Page(23-32)
+- Escape Characters: (32)
+- Operators: Page(34-46)
+- Mathematical Functions (math Module): Page(47-49)
+
+- Input And Output Statements: Page(49-57)
+- Flow Control: (58-73)
+- String Data Type(74-98)
+- List Data Structure(98-116)
+- Tuple Data Structure(117-124)
+- Set Data Structure(125-131)
+- Dictionary Data Structure(132-141)
+
+- FUNCTIONS(142-169) Lect-37
+    - Anonymous Functions:
+    - lambda Function (155)
+    - map() function (157)
+    - reduce() function(158)
+    - Function Aliasing(159)
+    - Nested Functions(160)
+
+- Decorators Function Decorators(162-165)
+- Generators(166- 169)
+
+- Modules (170-180)
+    - dir() function (174)
+    - The Special variable __name__: (175-176)
+    - Working with math module:
+    - Working with random module
+
+- Packages(181 - 184) Lec-48
+    - __init__.py
+
+- File Handling(185-203) Lect-54
+- Exception Handling(204-225)
+- PYTHON LOGGING(226-229) Lect- 53
+- PYTHON DEBUGGING BY USING ASSERTIONS (230-231)
+
+
+Python OOPs Part-1 (OOP's)
+
+- OOPs(232-255) Lect-60
+    - Inner classes(253-255)
+- Garbage Collection (256-260)
+
+
+Python OOPs Part-2 (Inheritance)
+
+Python OOPs Part-3
+- Polymorphism (260-271) Lect-68
+
+
+Python OOPs Part-4
+
+
+Regular expression
+- Regular Expressions (272-287) Lect-70 & 71
+- Multi Threading(288- 314) Lect-74
+- Python Database Programming(314- 325) Lect-82
+
+- Pattern Programs(325-367)
+
+- Deep copy & shallow copy​ Lect-84
