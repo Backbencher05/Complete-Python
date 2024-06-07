@@ -1,4 +1,4 @@
-# 1. Operator Overloading:
+   # 1. Operator Overloading and It's Magic Functions:
 
 # -> We can use the same operator for multiple purposes, which is nothing but operator overloading.
 # -> Python supports operator overloading.
@@ -16,6 +16,52 @@ Eg2:
 
 """
 
+"""
+class Book:
+    def __init__(self,pages):
+        self.page = pages
+
+b1 = Book(100)
+print(b1)
+# output: <__main__.Book object at 0x00000171E746DCD0>
+""" 
+# when we  print this reference varaible (b1) of book we will get the
+# output: <__main__.Book object at 0x00000171E746DCD0>
+
+# How?
+# Internally it is calling one magic method which is :  __str__() method
+
+"""
+
+# now if we override this method
+class Book1:
+    def __init__(self,pages):
+        self.page = pages
+
+    def __str__(self):
+        return "Hello"
+
+b1 = Book1(100)
+print(b1)
+
+# Now we will get the output
+# O/p" Hello
+
+
+class Book2:
+    def __init__(self,pages):
+        self.page = pages
+
+    def __str__(self):
+        return "the number of pages in the book:" + str(self.page)
+
+b1 = Book2(100)
+print(b1)
+# o/p: the number of pages in the book:100
+
+"""
+
+
 # Demo program to use + operator for our class objects:
 
 class Book:
@@ -28,6 +74,7 @@ b2 = Book(200)
 
 # Error:
     # TypeError: unsupported operand type(s) for +: 'Book' and 'Book'
+"""
 # Because we can do 
     # print(10+20) #30
     # print('Aditya'+'soni')#Adityasoni
@@ -36,9 +83,11 @@ b2 = Book(200)
 
 print(type(Book)) # <class 'type'>
 # So book is class type and we can't add 2 classes object
-
+"""
 # but,
 """
+         "Operator Overloading and Its Magic Methods"
+
 - We can overload "+" operator to work with Book objects also.
   i.e Python supports Operator Overloading.
 

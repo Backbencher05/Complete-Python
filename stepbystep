@@ -49,18 +49,21 @@ Python OOPs Part-1 (OOP's)
 - Garbage Collection (256-260)
 
 
-Python OOPs Part-2 (Inheritance)
+Python OOPs Part-2 (Inheritance) Lect- 68,69,72,73
+    - MRO (method Resoltion Order) Lect- 73
 
-Python OOPs Part-3
-- Polymorphism (260-271) Lect-68
+Python OOPs Part-3 (Polymorphism)
+- Polymorphism (260-271) Lect-76
 
 
-Python OOPs Part-4
+Python OOPs Part-4 Lect-78
 
 
 Regular expression
 - Regular Expressions (272-287) Lect-70 & 71
-- Multi Threading(288- 314) Lect-74
+
+
+Multi Threading(288- 314) Lect-74
 - Python Database Programming(314- 325) Lect-82
 
 - Pattern Programs(325-367)
