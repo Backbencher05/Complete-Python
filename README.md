@@ -64,3 +64,26 @@ Python OOPs Part-3
 
 Python OOPs Part-4
   
+
+Multi Threading
+    - Multi tasking
+      2 types of Multi Tasking
+      - Process based Multi Tasking (operating system level.)
+      - Thread based Multi Tasking (programmatic level.)
+    - The ways of Creating Thread in Python
+      We can create a thread in Python by using 3 ways
+      1. Creating a Thread without using any class
+      2. Creating a Thread by extending Thread class
+      3. Creating a Thread without extending Thread class
+
+    - Threadig Functions
+       1:Setting and Getting Name of a Thread
+       2: Thread Identification Number (ident)
+       3: active_count()
+       4: enumerate() function:
+       5: isAlive()
+       6: join() method
+    
+    - Daemon Threads
+  
+    

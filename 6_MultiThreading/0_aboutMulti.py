@@ -48,25 +48,3 @@ Note: Where ever a group of independent jobs are available, then it is highly re
 
 
 
-# Daemons Thread
-# To provide support lot of things running on the background
-# Ex: to provide support to the hero & heoins lot of people are working
-#     producer, makupman, assistant, camara, director etc. 
-# they never come in the screen
-# - hero & heroin are Non- daemon thread
-
-
-# - we can not change the nature of main thread to daemon because the main thread already started when the programm started 
-
-
-# Whenever the last Non-Daemon Thread terminates automatically all Daemon Threads will be
-# terminated.
-# when film is completed for hero no need of makeupman or camra man
-
-# where
-# In games
-
-# display surrounding &  roads are daemon
-# cars as non-deamon
-# once last car completed we don't need backgroud
-# so for such type of supporting role we use daemon
