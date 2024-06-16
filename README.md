@@ -50,12 +50,12 @@ Multi Threading
       3. Creating a Thread without extending Thread class
 
   - Threadig Functions
-     1:Setting and Getting Name of a Thread
-     2: Thread Identification Number (ident)
-     3: active_count()
-     4: enumerate() function:
-     5: isAlive()
-     6: join() method
+     1. Setting and Getting Name of a Thread
+     2. Thread Identification Number (ident)
+     3. active_count()
+     4. enumerate() function:
+     5. isAlive()
+     6. join() method
     
   - Daemon Threads
   - Synchronizations
