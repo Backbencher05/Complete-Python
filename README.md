@@ -70,6 +70,7 @@ Multi Threading
       2 types of Multi Tasking
       - Process based Multi Tasking (operating system level.)
       - Thread based Multi Tasking (programmatic level.)
+      
     - The ways of Creating Thread in Python
       We can create a thread in Python by using 3 ways
       1. Creating a Thread without using any class
@@ -85,5 +86,6 @@ Multi Threading
        6: join() method
     
     - Daemon Threads
+    - Synchronizations
   
     
