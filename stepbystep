@@ -53,18 +53,20 @@ Python OOPs Part-2 (Inheritance) Lect- 68,69,72,73
     - MRO (method Resoltion Order) Lect- 73
 
 Python OOPs Part-3 (Polymorphism)
-- Polymorphism (260-271) Lect-76
+- Polymorphism (260-271) Lect-76,77
 
 
-Python OOPs Part-4 Lect-78
+Python OOPs Part-4 Lect-78,79
 
 
 Regular expression
 - Regular Expressions (272-287) Lect-70 & 71
 
 
-Multi Threading(288- 314) Lect-74
-- Python Database Programming(314- 325) Lect-82
+Multi Threading(288- 314) Lect-74, 75, 80
+    - synchronization Lect-80, 81
+
+Python Database Programming(314- 325) Lect-82
 
 - Pattern Programs(325-367)
 
