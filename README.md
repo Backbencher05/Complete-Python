@@ -1,4 +1,4 @@
-
+                                                                          Advanced Python
 <!-- Detailed Explanation  -->
 Python OOPs Part-1
 
@@ -60,4 +60,8 @@ Multi Threading
   - Daemon Threads
   - Synchronizations
 
-    
+
+                                                                          Core Python
+
+- Functions
+- Decorators
