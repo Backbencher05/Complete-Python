@@ -16,15 +16,16 @@
 - Set Data Structure(125-131)
 - Dictionary Data Structure(132-141)
 
-- FUNCTIONS(142-169) Lect-37
-    - Anonymous Functions:
-    - lambda Function (155)
-    - map() function (157)
-    - reduce() function(158)
-    - Function Aliasing(159)
-    - Nested Functions(160)
+- FUNCTIONS(140-169) Lect-37,38,39,40,41
+    - Functions Lect-37,38,39
+    - Anonymous Functions: Lect-40
+    - lambda Function (155) Lect-40
+    - map() function (157) Lect-40
+    - reduce() function(158) Lect-41
+    - Function Aliasing(159) Lect-41
+    - Nested Functions(160) Lect-41
 
-- Decorators Function Decorators(162-165)
+- Decorators Function Decorators(162-165)  Lect-42
 - Generators(166- 169)
 
 - Modules (170-180)
