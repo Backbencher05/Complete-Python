@@ -37,7 +37,7 @@ class Employee:
 
 e = Employee()
 print(e.__dict__)
-
+# Output: {'eno': 100, 'ename': 'Aditya', 'esal': 10000}
 """
 2. Inside Instance Method by using self variable:
 

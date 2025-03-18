@@ -14,11 +14,11 @@ print, which is nothing but class.
 ⚽ Actions can be represented by Methods.
 ⚽ Hence class contains both variables and methods.
 """
-# class Student:
-#     """This is student class with required data"""
+class Student:
+    """This is student class with required data"""
 
-# print(Student.__doc__)
-# help(Student)
+print(Student.__doc__)
+help(Student)
 
 """
 Within the Python class we can represent data by using variables.
@@ -133,3 +133,16 @@ s1 = Student2("Aditya", 101, 95)
 s2 = Student2("Aman", 102, 96)
 s1.display()
 s2.display()
+
+"""
+Differences between Methods and Constructors:
+
+              Method                                                            Constructor
+1. Name of method can be any name                          1. Constructor name should be always __init__
+2. Method will be executed if we call that                 2. Constructor will be executed automatically at 
+   method                                                     the time of object creation.  
+3. Per object, method can be called any number             3. Per object, Constructor will be executed only 
+of times.                                                     once
+4. Inside method we can write business logic               4. Inside Constructor we have to declare and 
+                                                              initialize instance variables
+"""

@@ -2,13 +2,15 @@
 """
 - By using Class Name or by creating object we can access members of one class inside another class
   is nothing but composition (Has-A Relationship).
+  
 - The main advantage of Has-A Relationship is Code Reusability
 """
 
-# Demo Program-1:
+# Demo Program-1: by using class name
 class Engine:
     a = 10
     def __init__(self):
+        print("Hello Engine Class")
         self.b = 20
 
     def m1(self):
@@ -16,7 +18,7 @@ class Engine:
 
 class Car:
     def __init__(self):
-        self.engine = Engine()
+        self.engine = Engine() #__init__ method of Engine class automtically called
 
     def m2(self):
         print("Car Using Engine Functionality")

@@ -1,5 +1,6 @@
 """
-One of the core concepts in object-oriented programming (OOP) languages is inheritance. It is a mechanism that allows you to create a hierarchy of classes that share a set of properties and methods by deriving a class from another class. Inheritance is the capability of one class to derive or inherit the properties from another class. 
+One of the core concepts in object-oriented programming (OOP) languages is inheritance. It is a mechanism that allows you to create a hierarchy of classes that share a set of properties and methods by deriving a class from another class.
+Inheritance is the capability of one class to derive or inherit the properties from another class.
 
 Benefits of inheritance are:
 
@@ -11,6 +12,8 @@ Inheritance allows you to inherit the properties of a class, i.e., base class to
 - Inheritance offers a simple, understandable model structure. 
 - Less development and maintenance expenses result from an inheritance.
 """
+
+# How to achieve
 
 # Using members of one class inside another class:
 
